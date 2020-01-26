@@ -1,0 +1,5 @@
+D:\AdemAKKUS\Uygulamalar\Hafta17\ExtensionMethodsApp\ExtensionMethodsApp\bin\Debug\ExtensionMethodsApp.exe.config
+D:\AdemAKKUS\Uygulamalar\Hafta17\ExtensionMethodsApp\ExtensionMethodsApp\bin\Debug\ExtensionMethodsApp.exe
+D:\AdemAKKUS\Uygulamalar\Hafta17\ExtensionMethodsApp\ExtensionMethodsApp\bin\Debug\ExtensionMethodsApp.pdb
+D:\AdemAKKUS\Uygulamalar\Hafta17\ExtensionMethodsApp\ExtensionMethodsApp\obj\Debug\ExtensionMethodsApp.exe
+D:\AdemAKKUS\Uygulamalar\Hafta17\ExtensionMethodsApp\ExtensionMethodsApp\obj\Debug\ExtensionMethodsApp.pdb
